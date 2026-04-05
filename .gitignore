@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+!.env.backup.example
+secrets/
+*.key
+*.pem
+*.dump
+*.tar.gz
+backups/
